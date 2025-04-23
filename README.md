@@ -8,7 +8,7 @@ The **E-Tibet Identity & Citizenship App** is a decentralized digital identity a
 
 Kiran Sukumaran - [GitHub](https://github.com/Kiransukumaran), [LinkedIn](https://linkedin.com/in/kiran-sukumaran)
 Vinod Kongadi - [LinkedIn](https://www.linkedin.com/in/vinodkongadi)
-Yash V - [LinkedIn](https://www.linkedin.com/in/yash-v-/)
+Yash V - [LinkedIn](https://www.linkedin.com/in/yash-v-/), [GitHub](https://github.com/Yash-2405).
 
 ## Pictch Dock
 
